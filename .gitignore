@@ -1,0 +1,9 @@
+config.py
+.venv/
+.idea/
+*.sql
+*.log
+.env
+*.pyc
+__pycache__/
+/venv/
